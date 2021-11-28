@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Delgado Elias</h1>
 <h3 align="center">an Argentinian fullstack developer</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Rocket Play, work in Progress**
 
 - 🌱 I’m currently learning **React, React Native**
 
