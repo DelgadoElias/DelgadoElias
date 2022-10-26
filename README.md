@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Delgado Elias</h1>
 <h3 align="center">an Argentinian fullstack developer</h3>
 
-- 🔭 I’m currently working on **Rocket Play, work in Progress**
+- 🔭 I’m currently working on **Digital House S.A**
 
-- 🌱 I’m currently learning **React, React Native**
+- 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **React, Angular**
+- 💬 Ask me about **React, Angular , web development in general**
 
 - 📫 How to reach me **eliaslautarodelgado@gmail.com**
 
