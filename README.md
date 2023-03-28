@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Delgado Elias</h1>
 <h3 align="center">an Argentinian fullstack developer</h3>
 
-- 🔭 I’m currently working on **Digital House S.A**
+- 🔭 I’m currently working on **Helipagos S.R.L**
 
 - 🌱 I’m currently learning **Typescript**
 
