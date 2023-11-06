@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delgadoelias&label=Views&color=a3dcff&style=flat" alt="delgadoelias" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delgadoelias&rank=A" alt="delgadoelias" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delgadoelias&rank=-C,-B" alt="delgadoelias" /></a> </p>
 
 - 🔭 I’m currently working on [Helipagos](https://www.linkedin.com/company/helipagos/)
 
