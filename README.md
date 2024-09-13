@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm DelgadoElias</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h1 align="center">Hi 👋, I'm Elias</h1>
+<h3 align="center">An nvim enthusiast</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delgadoelias&label=Views&color=a3dcff&style=flat" alt="delgadoelias" /> </p>
 
@@ -7,17 +8,17 @@
 
 - 🔭 I’m currently working on [Helipagos](https://www.linkedin.com/company/helipagos/)
 
-- 🌱 I’m currently learning **Android, Kotlin**
+- 🌱 I’m currently learning **CyberSecurity**
 
-- 👨‍💻 All of my projects are available at [delgado-elias.vercel.app](delgado-elias.vercel.app)
+- 👨‍💻 All of my projects are available at [delgado.surge.sh](https://delgad.surge.sh)
 
-- 💬 Ask me about **React, Angular**
+- 💬 Ask me about **Frontend and Devops in general**
 
 - 📫 How to reach me **eliaslautarodelgado@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/delgadoelias-front-end-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/delgadoelias-front-end-dev/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/delgadoelias-front-end-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/delgadoelias-front-end-dev/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delgadoelias&show_icons=true&locale=en" alt="delgadoelias" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=delgadoelias&theme=dark" alt="delgadoelias" /></p>
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DelgadoElias)](https://github.com/anuraghazra/github-readme-stats)
