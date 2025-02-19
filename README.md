@@ -1,18 +1,21 @@
-<h1 align="center">Hi 👋, I'm Elias</h1>
+<img src="https://yzgxaazkntuagrxjwxpi.supabase.co/storage/v1/object/public/booker//pewview-file.webp" alt="delgadoelias" />
 <h3 align="center">An nvim enthusiast</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delgadoelias&label=Views&color=a3dcff&style=flat" alt="delgadoelias" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delgadoelias&rank=-C,-B" alt="delgadoelias" /></a> </p>
+<a href="https://www.credly.com/badges/d23273c4-71ba-481c-90ad-546bb9c986cc/public_url" target="_blank" rel="noreferrer"><img src="https://yzgxaazkntuagrxjwxpi.supabase.co/storage/v1/object/public/booker//application-development-using-microservices-and-ser.webp" alt="credly" style="display: inline" /></a>
+<a href="https://www.credly.com/badges/d9cb75bb-8cf3-49cb-a801-e984361bef87/public_url" target="_blank" rel="noreferrer"><img src="https://yzgxaazkntuagrxjwxpi.supabase.co/storage/v1/object/public/booker//full-stack-cloud-development-capstone-project.webp" alt="credly" style="display: inline" /></a>
+
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delgadoelias&rank=-C,-B" alt="delgadoelias" /></a> </p> -->
 
 - 🔭 I’m currently working on [Helipagos](https://www.linkedin.com/company/helipagos/)
 
-- 🌱 I’m currently learning **CyberSecurity**
+<!-- - 🌱 I’m currently learning **CyberSecurity** -->
 
-- 👨‍💻 All of my projects are available at [delgado.surge.sh](https://delgad.surge.sh)
+- 👨‍💻 All of my projects are available at [delgado.surge.sh](https://delgado.surge.sh)
 
-- 💬 Ask me about **Frontend and Devops in general**
+- 💬 Ask me about **Frontend, DevOps or any interesting project**
 
 - 📫 How to reach me **eliaslautarodelgado@gmail.com**
 
@@ -27,8 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=delgadoelias&show_icons=true&locale=en&layout=compact" alt="delgadoelias" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delgadoelias&show_icons=true&locale=en" alt="delgadoelias" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=delgadoelias&theme=dark" alt="delgadoelias" /></p>
-
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DelgadoElias)](https://github.com/anuraghazra/github-readme-stats)
