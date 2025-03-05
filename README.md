@@ -13,7 +13,7 @@
 
 <!-- - 🌱 I’m currently learning **CyberSecurity** -->
 
-- 👨‍💻 All of my projects are available at [delgado.surge.sh](https://delgado.surge.sh)
+<!--- 👨‍💻 All of my projects are available at [delgado.surge.sh](https://delgado.surge.sh) -->
 
 - 💬 Ask me about **Frontend, DevOps or any interesting project**
 
