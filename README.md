@@ -1,11 +1,22 @@
-<img src="https://yzgxaazkntuagrxjwxpi.supabase.co/storage/v1/object/public/booker//pewview-file.webp" alt="delgadoelias" />
+<!-- <img src="https://yzgxaazkntuagrxjwxpi.supabase.co/storage/v1/object/public/booker//pewview-file.webp" alt="delgadoelias" /> -->
 <h3 align="center">An nvim enthusiast</h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delgadoelias&label=Views&color=a3dcff&style=flat" alt="delgadoelias" /> </p>
 
-<a href="https://www.credly.com/badges/d23273c4-71ba-481c-90ad-546bb9c986cc/public_url" target="_blank" rel="noreferrer"><img src="https://yzgxaazkntuagrxjwxpi.supabase.co/storage/v1/object/public/booker//application-development-using-microservices-and-ser.webp" alt="credly" style="display: inline" /></a>
-<a href="https://www.credly.com/badges/d9cb75bb-8cf3-49cb-a801-e984361bef87/public_url" target="_blank" rel="noreferrer"><img src="https://yzgxaazkntuagrxjwxpi.supabase.co/storage/v1/object/public/booker//full-stack-cloud-development-capstone-project.webp" alt="credly" style="display: inline" /></a>
+<a href="https://www.credly.com/badges/f7c261d7-d81c-4f49-a9c4-64bd2dc5a9fb/public_url" target="_blank" rel="noreferrer">
+  <img src="https://images.credly.com/images/3d10b5f5-387d-4cbf-98ec-a418231fb157/image.png" alt="credly" style="display: inline; width: 200px" />
+</a>
+<a href="https://www.credly.com/badges/e0c364f0-98c1-4345-8860-d7b67b29eec1" target="_blank" rel="noreferrer">
+  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/23f504d5-ba61-42f6-832b-36295ce88a51" />
+</a>
+<a href="https://www.credly.com/badges/d23273c4-71ba-481c-90ad-546bb9c986cc/public_url" target="_blank" rel="noreferrer">
+  <img src="https://images.credly.com/images/eaaf4a45-b93e-41d1-91d3-d331c6210314/image.png" alt="credly" style="display: inline; width: 200px;" />
+</a>
+<a href="https://www.credly.com/badges/c29f7d8c-ee4f-4f1c-89de-3413f505ebed/public_url" target="_blank" rel="noreferrer">
+  <img src="https://images.credly.com/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" alt="credly" style="display: inline; width: 200px;" />
+</a>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delgadoelias&rank=-C,-B" alt="delgadoelias" /></a> </p> -->
 
@@ -18,6 +29,8 @@
 - 💬 Ask me about **Frontend, DevOps or any interesting project**
 
 - 📫 How to reach me **eliaslautarodelgado@gmail.com**
+
+- Check out my [blog](https://ede-portfolio.vercel.app/blog)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
